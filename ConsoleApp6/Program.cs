@@ -9,7 +9,8 @@ using Telegram.Bot.Exceptions;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 
-
+// https://bitpay.com/api/?csharp#rest-api-resources-tokens-request-an-api-token
+// hi
 
 
 var botClient = new TelegramBotClient("5213500844:AAE36GRxxxEP8qLiolFNPYK7RzUCuenc41A");
